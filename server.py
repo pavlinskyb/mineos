@@ -1,6 +1,7 @@
 #!/usr/bin/env python2.7
 """A python script to manage minecraft servers
    Designed for use with MineOS: http://minecraft.codeemo.com
+   GIT change test.
 """
 
 __author__ = "William Dizon"
